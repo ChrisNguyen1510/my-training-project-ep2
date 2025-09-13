@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9fafb;
+  margin: 0;
+  padding: 0;
+}
+
+.global-title {
+  text-align: center;
+  color: #1e40af; /* xanh dương */
+  margin-bottom: 20px;
+}

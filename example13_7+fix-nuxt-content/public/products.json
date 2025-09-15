@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Watch",
+    "price": 129.99,
+    "image": "img/products/sp1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Leather Wallet",
+    "price": 39.5,
+    "image": "img/products/sp2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sneakers",
+    "price": 79,
+    "image": "img/products/sp3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Sunglasses",
+    "price": 49.99,
+    "image": "img/products/sp4.jpg"
+  }
+]
